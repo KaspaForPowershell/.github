@@ -1,6 +1,6 @@
 ## 👋 Welcome to [Kaspa for PowerShell](https://www.youtube.com/@KaspaForPowershell)
 
-Powerful tools for working with the Kaspa blockchain, built with C# and exposed via PowerShell.
+Powerful tools for working with the [Kaspa](https://kaspa.org/) blockchain, built with C# and exposed via PowerShell.
 
 - 💠 Kaspa REST API Integration (C# Cmdlets)  
 A robust set of PowerShell Cmdlets written in C# for accessing the Kaspa blockchain via its REST API.  
