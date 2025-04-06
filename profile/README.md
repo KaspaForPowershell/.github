@@ -2,13 +2,12 @@
 
 Powerful tools for working with the Kaspa blockchain, built with C# and exposed via PowerShell.
 
-- 💠 Kaspa REST API Integration (C# Cmdlets)  
-A robust set of PowerShell Cmdlets written in C# for accessing the Kaspa blockchain via its REST API.
-- 📊 Example Scripts  
-Real-world PowerShell scripts to get you started—address analysis, UTXO aggregation, and more.
-- ⚙️ PowerShell Job Support  
-Cmdlets support asynchronous execution with -AsJob, enabling efficient processing of large datasets or multiple API calls in parallel.
-
+💠 Kaspa REST API Integration (C# Cmdlets)  
+- A robust set of PowerShell Cmdlets written in C# for accessing the Kaspa blockchain via its REST API.
+📊 Example Scripts  
+- Real-world PowerShell scripts to get you started—address analysis, UTXO aggregation, and more.
+⚙️ PowerShell Job Support  
+- Cmdlets support asynchronous execution with -AsJob, enabling efficient processing of large datasets or multiple API calls in parallel.
 🧱 Built For:
 - Blockchain data explorers
 - Kaspa miners and wallet users
