@@ -1,4 +1,4 @@
-## 👋 Welcome to Kaspa for PowerShell
+## 👋 Welcome to [Kaspa for PowerShell](https://www.youtube.com/@KaspaForPowershell)
 
 Powerful tools for working with the Kaspa blockchain, built with C# and exposed via PowerShell.
 
